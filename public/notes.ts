@@ -224,5 +224,7 @@
 // FINAL CHAPTER DEPLOY TO VERCEL
 // add a post install script in package.json => "postinstall": "prisma generate"
 
+// change app url and stripe secret only after deployment (from env)
+
 
 
